@@ -1,0 +1,14 @@
+{
+  "name": "nodefetch",
+  "version": "1.0.0",
+  "description": "A neofetch clone written in nodejs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neofetch"
+  ],
+  "author": "Stuxneta",
+  "license": "GPL-3.0-or-later"
+}
