@@ -25,7 +25,7 @@ const info = (color, lable, contents) => {
 console.clear();
 console.log(`${os.userInfo().username}@${os.hostname()}`);
 
-//Users Over View
+//User Over View
 console.log('-------------------');
 info(blue, 'Home Directory: ', os.userInfo().homedir);
 info(blue, 'Shell: ', os.userInfo().shell);
